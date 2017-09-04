@@ -1,5 +1,5 @@
 .background {
-  background: center no-repeat url(CastBackground.jpg);
+  background: center no-repeat url(https://raw.githubusercontent.com/vorlan/muzecast-chromecast/master/CastBackground.jpg);
   opacity:0.5;
 -webkit-filter: blur(35px);
 -moz-filter: blur(35px);
