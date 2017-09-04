@@ -1,0 +1,26 @@
+.background {
+  background: center no-repeat url(https://www.dropbox.com/s/g91fs83nw9qxu2o/CastBackground.jpg?_download_id=9987140586572754929283548742455868035384724895888315321426264821&_notify_domain=www.dropbox.com&dl=1);
+  opacity:0.5;
+-webkit-filter: blur(35px);
+-moz-filter: blur(35px);
+-o-filter: blur(35px);
+-ms-filter: blur(35px);
+filter: blur(35px);
+}
+
+.logo {
+  background-image: url(Icon512.jpg);
+}
+
+.progressBar {
+  background-color: #63b4fb;
+}
+
+.splash {
+  background-image: url(https://dl.dropboxusercontent.com/content_link/sTcLp6s81NVwTRlDtDC4oIfTFvPEyH8XQUAGUUqXzJRYl2TnUPBfNaNeYHZIlmou/file?dl=1);
+}
+
+.watermark {
+  background-image: url(https://dl.dropboxusercontent.com/content_link/FMAqGQ7nyuXd9YQVPZVPmZYd7x7q7YwEMzfegkE05FjtwFVXvALxhfRjOQPJZ66J/file?dl=1);
+  background-size: 57px 57px;
+}
